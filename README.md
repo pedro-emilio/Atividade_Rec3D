@@ -1,5 +1,5 @@
-Etapas realizadas para rodar o código
-
+Pedro Emilio Andrade Martins - 11812500
+  
 
 1- Instalação do GitBash e do GitDesktop
 
